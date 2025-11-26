@@ -1,6 +1,6 @@
 # Crypto-Currency-Dashboard-
 
-# Achal Project 🚀
+# Project 🚀
 
 A Flask-based web scraping app that pulls live data from CoinMarketCap using undetected_chromedriver, BeautifulSoup, and Selenium.
 
@@ -55,4 +55,5 @@ pip install setuptools
 // to get latest commit 
         ``` bash 
         git pull origin main
+
         ```
