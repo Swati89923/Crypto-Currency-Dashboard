@@ -43,6 +43,9 @@ A Flask-based web scraping app that pulls live data from CoinMarketCap using und
 - feedparser
 
 ---
+🌐 Live Demo
+
+👉 https://price-comparison-website-2.onrender.com
 
 ## 📌 Note:
 If you're using Python 3.12, make sure to:
@@ -57,3 +60,4 @@ pip install setuptools
         git pull origin main
 
         ```
+
